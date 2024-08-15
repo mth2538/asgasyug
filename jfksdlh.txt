@@ -1,3 +1,6 @@
+tpe3.cf-ip.rr.nu:443#Tokyo&1
+jhb1.cf-ip.rr.nu:443#Singapore&2
+sin1.cf-ip.rr.nu:443#Singapore&3
 47.242.202.230:2096#香港^1
 47.243.107.148:8443#香港^2
 47.242.202.230:2087#香港^3

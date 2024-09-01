@@ -2,4 +2,3 @@ jhb1.cf-ip.rr.nu:443#Singapore&11
 mad2.cf-ip.rr.nu:443#LosAngeles&22
 131.186.33.175:443#Tokyo&1
 129.150.58.86:57621#Singapore&2
-185.184.223.19:59775#Tokyo&3

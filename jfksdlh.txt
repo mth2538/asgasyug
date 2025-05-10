@@ -1,6 +1,6 @@
 www.munpia.com:443#HongKong
 www.wn01.uk:443#LosAngeles
-www.wn05.cc:443LosAngeles2
+www.wn05.cc:443#LosAngeles2
 www.wn01.cc:443#Seattle
 [2606:4700:9a92:15db:4bfd:1d01:abc5:7a81]:443#IP6HKG1
 [2606:4700:8ca2:f097:55c1:85a6:1aa2:b1af]:443#IP6HKG2
